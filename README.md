@@ -1,6 +1,10 @@
 # mackerel-plugin-aws-step-function
 AWS Step Functions custom metrics plugin.
 
+[![Build Status](https://travis-ci.org/mackerelio/mackerel-plugin-aws-step-functions.svg?branch=master)][travis]
+
+[travis]: https://travis-ci.org/mackerelio/mackerel-plugin-aws-step-functions
+
 ## Synopsis
 
 ```shell
